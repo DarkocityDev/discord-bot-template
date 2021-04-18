@@ -37,3 +37,8 @@ client.on('message', (message) => {
 
 // Login into your bot using the config.TOKEN when is the .env TOKEN variable
 client.login(TOKEN)
+
+let d = new Date()
+setTimeout(() => {
+  console.log(chalk.green(`[${d.toLocaleDateString()}] [${d.toLocaleTimeString()}]`), chalk.cyan(`[INFO]`), chalk.white(`You're running v1.0.1. Thanks for using this package. Check out Geniton here: https://geniton.com`))
+}, 3000);
