@@ -9,7 +9,6 @@ Download the project files, unzip them into your dedicated bot folder (you might
 - discord.js (12.5.3)
 - ascii-table (0.0.9)
 - chalk (4.1.0)
-- dotenv (8.2.0) 
 > You are free to install more dependencies after you install the project files. 
 
 ### 📝 Required Applications
