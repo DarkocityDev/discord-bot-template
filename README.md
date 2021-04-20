@@ -28,7 +28,7 @@ Download the project files, unzip them into your dedicated bot folder (you might
     "PREFIX": "PREFIX"
 }
 ```
-3. Open any command terminal of your choice, run `npm init -y`, then `npm install`
+3. Open any command terminal of your choice, run `npm init -y`, then `npm install`, `npm install discord.js`, `npm intall fs`, and finally `npm install  chalk`! 
 
 4. Save changes (`ctrl + s`)
 
