@@ -21,14 +21,14 @@ Download the project files, unzip them into your dedicated bot folder (you might
 1. Download the project files.
 > This could be done by clicking the `Code` button, and then clicking `Download ZIP`
 
-2. Go into the `config.json` file, replace the variables to your [Discord bot token](https://discord.com/prefix) and prefix.
+2. Go into the `config.json` file, replace the variables to your [Discord bot token](https://discord.com/developers/applications) and prefix.
 ``` 
 {
     "TOKEN": "DISCORD_BOT_TOKEN",
     "PREFIX": "PREFIX"
 }
 ```
-3. Open any command terminal of your choice, run `npm init -y`, then `npm install`, `npm install discord.js`, `npm intall fs`, and finally `npm install  chalk`! 
+3. Open any command terminal of your choice, run `npm init -y`, then `npm install`, `npm install discord.js`, `npm install ascii-table`,`npm intall fs`, and finally `npm install  chalk`! 
 
 4. Save changes (`ctrl + s`)
 
