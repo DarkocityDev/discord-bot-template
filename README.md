@@ -12,7 +12,7 @@ Download the project files, unzip them into your dedicated bot folder (you might
 > You are free to install more dependencies after you install the project files. 
 
 ### 📝 Required Applications
- - [node.js (14.6.1 LTS) or (15.140 Current)](https://nodejs.org/en/)
+ - [node.js (14.6.1 LTS) or (16.2.0 Current)](https://nodejs.org/en/)
 
 ---
 
